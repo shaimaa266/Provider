@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 
 class ProviderClass extends ChangeNotifier {
+
   TextEditingController nameController = TextEditingController();
   TextEditingController emailController = TextEditingController();
   TextEditingController phoneController = TextEditingController();
   TextEditingController passwordController = TextEditingController();
-
   int counter = 0;
   bool _isChecked = false;
   bool _isObscurText = false;

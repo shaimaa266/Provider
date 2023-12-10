@@ -1,4 +1,4 @@
-import 'package:amazon/view/login.dart';
+import 'package:amazon/view/signup.dart';
 import 'package:amazon/provider/provider_class.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
